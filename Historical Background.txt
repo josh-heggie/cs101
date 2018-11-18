@@ -1,1 +1,35 @@
+History 
+
+
+General history
+
+The precursor to cloud computing first came around 1960 with a concept known as RJE or remote job entry which allowed computers to send requests to other computers to process data entry however the name cloud computing only come around in 1997 by Compaq. The concept however only become widespread after Amazon popularized it and with their creation of: Amazon Elastic Compute Cloud which allowed users to access amazon owned virtual machines and servers for a price. “Amazon Elastic Compute Cloud (EC2) provides a cloud computing service by renting out computational resources to customers (i.e., cloud users). The customers can dynamically provision virtual servers (i.e., computing instances) in EC2” (Sivadon Chaisiri, Rakpong Kaewpuang, 2011) Cloud Computing has evolved since its first inception and continues to as new technology is created by companies such as amazon. A recent example of Amazons advancements is Amazon Go which uses cloud based computing to reduce time in stores.
+
+
+How cloud computing rose to prominence
+
+While Amazon was the first to invest in cloud computing other companies such as Google and Microsoft also took up cloud computing. After Amazon, Google would go on to create Google App Engine in 2008 which let users create and host web applications and in 2010 Microsoft created Microsoft Azure which similarly let users build, host and manage applications. Tech company giants have been making use of cloud computing for several years now and the concept has become extremely common across a lot of internet related businesses. “Cloud computing is no longer on the horizon; it has become the next logical step for the IT industry. It's the new strategic weapon in enterprise computing and the new norm in every sector of society.”  (2013 IT Professional Volume)
+
+
+History of Cloud Computings environmental impact
+
+Power Conservation
+The interest of cloud based computing in the recent years has resulted in several breakthroughs in power conservation since running server farms takes a lot of power. Companies have found lots of new ways of keeping servers cooled and have found better ways of optimizing power  “As hardware evolved, so did software. As networking evolved, so did the rules for how computers communicate.” John W. Rittinghouse, James F. Ransome (2009)
+
+Reduced Carbon output
+Cloud computing produces less carbon output than using traditional hard drive storage. Majority of Amazons income is cloud based data storage. The huge incentive for companies to invest in cloud based services is that its cheap and accessible. We have seen that the more companies work on cloud based services the better it is for the environment as a whole since less carbon footprint is produced to reach a higher level of productivity.
+
+Increasing Popularity
+Amazon has set the president for all data storage services that cloud computing is the way forward. More and more companies have made the transition to their own version of cloud computing and these trends have had a very positive effect on the environment.
+
+bibliography 
+
+Sivadon Chaisiri, Rakpong Kaewpuang (2011) - Cost Minimization for Provisioning Virtual Servers in Amazon Elastic Compute Cloud
+https://ieeexplore.ieee.org/abstract/document/6005371
+
+John W. Rittinghouse, James F. Ransome (2009), Cloud Computing Implementation, Management, and Security 
+https://www.taylorfrancis.com/books/9781439806814
+
+Irena Bojanova, Jia Zhang, Jeffrey Voas (2013), IT Professional Volume: 15 Issue: 2 Page:12 
+https://ieeexplore.ieee.org/abstract/document/6487337
 
